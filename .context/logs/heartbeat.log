@@ -1,0 +1,11 @@
+[2026-03-15 18:30:03] [session:a1f90cfd] prompt#1 context_modified=true
+[2026-03-15 18:52:54] [session:a1f90cfd] prompt#2 context_modified=false tokens=42k pct=21%
+[2026-03-15 19:00:09] [session:a1f90cfd] prompt#3 context_modified=false tokens=49k pct=24%
+[2026-03-15 19:03:28] [session:a1f90cfd] prompt#4 context_modified=false tokens=52k pct=26%
+[2026-03-15 19:05:01] [session:a1f90cfd] prompt#5 context_modified=false tokens=56k pct=28%
+[2026-03-15 19:09:11] [session:a1f90cfd] prompt#6 context_modified=false tokens=59k pct=29%
+[2026-03-15 19:10:54] [session:a1f90cfd] prompt#7 context_modified=false tokens=63k pct=31%
+[2026-03-15 19:12:19] [session:a1f90cfd] prompt#8 context_modified=false tokens=87k pct=43%
+[2026-03-15 19:13:48] [session:a1f90cfd] prompt#9 context_modified=false tokens=90k pct=45%
+[2026-03-17 10:36:13] [session:98451e08] prompt#1 context_modified=true
+[2026-03-17 10:43:03] [session:98451e08] prompt#2 context_modified=false tokens=24k pct=12%

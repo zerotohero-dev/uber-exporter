@@ -1,0 +1,9 @@
+{
+  "imap": {
+    "server": "imap.gmail.com",
+    "port": 993,
+    "username": "you@gmail.com",
+    "password_cmd": "cat ~/.config/uber-exporter/app-password.txt"
+  },
+  "outbox_dir": "outbox"
+}
